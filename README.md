@@ -1,2 +1,2 @@
-# ETC
+# ECS
 Study
